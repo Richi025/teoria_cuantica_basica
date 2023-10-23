@@ -17,13 +17,12 @@ La biblioteca incluye las siguientes funciones para operar con vectores y matric
 
 ## Discusión de los ejercicios
 1. 4.5.2
+![WhatsApp Image 2023-10-23 at 4 22 11 PM](https://github.com/Richi025/teoria_cuantica_basica/assets/138072260/07ed5ea3-8e0f-45e9-88f9-e6c251e1117b)
 
 2. 4.5.3
-=======
-4. **Media del Observable, El sistema revisa que la matriz sea hermitiana, y si lo es, calcula la media  del observable en el estado dado** `mediaObservableKet(matrixObservable, Ket_vector)`
-5. **Varianza del Observable, El sistema revisa que la matriz sea hermitiana, y si lo es, calcula la varianza del observable en el estado dado** `variationObservableKet(matrix,vector)`
-   
->>>>>>> b5239546a96dd07c84738dc7fe4e0eac95733260
+![WhatsApp Image 2023-10-23 at 4 22 11 PM](https://github.com/Richi025/teoria_cuantica_basica/assets/138072260/7bb209c4-b0f4-4c8a-a253-0bfcf3f50fa5)
+
+
 ## Uso
 Instrucciones:
 1. Clona este repositorio en tu máquina local.
@@ -55,11 +54,8 @@ Antes de comenzar con la ejecución de los contenidos de este repositorio, es es
 4. Complete la instalacion.
 
 ## Versión
-<<<<<<< HEAD
+
 **Versión Final**
-=======
-**Segunda Versión**
->>>>>>> b5239546a96dd07c84738dc7fe4e0eac95733260
 
 ## Autor
 **Jose Ricardo Vasquez Vega**
